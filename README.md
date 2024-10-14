@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, friend
 
-<!--
-**sam-sepiol1/sam-sepiol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github. Here's a little more about me.
 
-Here are some ideas to get you started:
+## 🌟 About Me 🌟
+- 🎓 **Education**: Currently studying at Becode.
+- 💼 **Profession**: Aspiring software developer.
+- 🌍 **Location**: Based in Belgium but willing to work all around the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming Languages**: 
+    - JavaScript ( jQuery, NodeJS, Express, EJS)
+    - HTML & CSS 
+- **Tools & Technologies**:
+    - Git & GitHub 
+    - VSCode 
+    - Figma
+    - Adobe Photoshop/Lightroom
+- **Languages**
+  - French 🇧🇪
+  - English 🇬🇧
+
+## 📚 Interests
+- **Coding**: Passionate about solving problems and building projects.
+- **Learning**: Always eager to learn new technologies and improve my skills.
+- **Hobbies**: 
+    - Electronic Music 🔊
+    - Djing 🎧
+    - F1 and Karting 🏁🏎️
+    - Movies 🎥
