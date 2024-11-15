@@ -28,3 +28,7 @@ Welcome to my github. Here's a little more about me.
     - Djing 🎧
     - F1 and Karting 🏁🏎️
     - Movies 🎥
+ 
+_“When you delete something, you’re making a choice to destroy it. To never see it again. You choose to delete because you need to free up space, because you need to move on.”_
+— Elliot Alderson
+
