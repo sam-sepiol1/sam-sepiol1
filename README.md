@@ -4,18 +4,23 @@ Welcome to my github. Here's a little more about me.
 
 ## 🌟 About Me 🌟
 - 🎓 **Education**: Currently studying at Becode.
-- 💼 **Profession**: Aspiring software developer.
+- 💼 **Profession**: Aspiring Web Developer.
 - 🌍 **Location**: Based in Belgium but willing to work all around the world.
 
 ## 💻 Skills
 - **Programming Languages**: 
-    - JavaScript ( jQuery, NodeJS, Express, EJS)
-    - HTML & CSS 
+    - JavaScript ( jQuery, NodeJS, Express, EJS, REACT )
+    - HTML & CSS
+    - PHP
+    - MySQL
+    - RESTful APIs
 - **Tools & Technologies**:
     - Git & GitHub 
     - VSCode 
     - Figma
     - Adobe Photoshop/Lightroom
+    - Postman
+    - PhpMyAdmin
 - **Languages**
   - French 🇧🇪
   - English 🇬🇧
@@ -32,4 +37,3 @@ Welcome to my github. Here's a little more about me.
 _“When you delete something, you’re making a choice to destroy it. To never see it again. You choose to delete because you need to free up space, because you need to move on.”_  
 
 — Elliot Alderson
-
