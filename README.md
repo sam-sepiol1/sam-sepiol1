@@ -3,24 +3,19 @@
 Welcome to my github. Here's a little more about me.
 
 ## 🌟 About Me 🌟
-- 🎓 **Education**: Currently studying at Becode.
-- 💼 **Profession**: Aspiring Web Developer.
+- 🎓 **Education**: Becode and the World Wide Web.
+- 💼 **Profession**: Junior Web Developer.
 - 🌍 **Location**: Based in Belgium but willing to work all around the world.
 
 ## 💻 Skills
 - **Programming Languages**: 
-    - JavaScript ( jQuery, NodeJS, Express, EJS, REACT )
-    - HTML & CSS
-    - PHP
-    - MySQL
-    - RESTful APIs
-- **Tools & Technologies**:
-    - Git & GitHub 
-    - VSCode 
-    - Figma
-    - Adobe Photoshop/Lightroom
-    - Postman
-    - PhpMyAdmin
+    - NextJS
+    - REACT
+    - NodeJS/Express
+    - NestJS
+    - PostgreSQL
+    - Mongo
+
 - **Languages**
   - French 🇧🇪
   - English 🇬🇧
