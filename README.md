@@ -1,49 +1,43 @@
-# 👋 Hello, friend
+# 👤 Hello, friend
 
-Welcome to my github. Here's a little more about me.
+Welcome to my GitHub. Here's a little more about me.
 
-## 🌟 About Me 🌟
-- 🎓 **Education**: Becode and the World Wide Web.
-- 💼 **Profession**: Junior Web Developer.
-- 🌍 **Location**: Based in Belgium but willing to work all around the world.
+## 🌑 Who Am I?
+- 💻 **Education**: Self-taught and Becode graduate.
+- 📁 **Occupation**: Junior Web Developer.
+- 📍 **Location**: Somewhere in Belgium, everywhere in the world.
 
-## 🛠️ Tech Stack
-- **Frontend**: 
+## ⚙️ Tech Arsenal
+- **Frontend**
   - [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/docs) 
   - [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/docs/getting-started.html)
-- **Backend**: 
-  - [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
+- **Backend**
+  - [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/docs/) 
   - [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
-- **Databases**: 
+- **Databases**
   - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
   - [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
+## 🔥 GitHub Black Box
+![Stats](https://github-readme-stats.vercel.app/api?username=sam-sepiol1&show_icons=false&theme=dark&hide=stars&hide_rank=true)
 
-## 📊 GitHub Stats
+### What I Code Most
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-sepiol1&layout=compact&theme=dark)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam-sepiol1&show_icons=false&theme=transparent&hide=stars&hide_rank=true)
+### When I Code
+![Hourly Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-sepiol1&theme=dark&utcOffset=1)
 
 
-## 🔝 Most Used Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-sepiol1&layout=compact&theme=transparent)
-
-## ⏰ When I Code
-![sam-sepiol1's Hourly Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-sepiol1&theme=transparent&utcOffset=1)
-
-## 💼 Freelance and Work
+## 📡 Status
 ![Available](https://img.shields.io/badge/Available-YES-green?style=flat-square)
-
-![Where](https://img.shields.io/badge/Where-Anywhere-red?style=flat-square)
-
+![Where](https://img.shields.io/badge/Where-Everywhere-red?style=flat-square)
 ![When](https://img.shields.io/badge/When-Anytime-blue?style=flat-square)
 
-## 🌐 Languages
-- French 🇧🇪
-- English 🇬🇧
 
 ## 💬 How to Reach Me
 - LinkedIn: [Sébastien S](https://www.linkedin.com/in/sebastien-s/)
+
+---
 
 
 ## 📚 Interests
@@ -54,7 +48,38 @@ Welcome to my github. Here's a little more about me.
     - Djing 🎧
     - F1 and Karting 🏁🏎️
     - Movies 🎥
- 
-_“When you delete something, you’re making a choice to destroy it. To never see it again. You choose to delete because you need to free up space, because you need to move on.”_  
 
-— Elliot Alderson
+
+
+> ### "Control is an illusion. But I still prefer to be the one pulling the strings."
+> 
+> — Elliot Alderson
+
+```
+┌─┐   ┌─┐  ██████████   ┌─┐   ┌─┐  
+│░│   │░│  ██      ██   │░│   │░│  
+│░│███│░│  ██  ██  ██   │░│███│░│  
+│░███░██│  ██  ██  ██   │░███░██│  
+│░│█│█│░│  ██      ██   │░│█│█│░│  
+└─┘─┘─┘─┘  ██████████   └─┘─┘─┘─┘  
+
+███████╗ █████╗ ███╗   ███╗    ███████╗███████╗██████╗ ██╗ ██████╗ ██╗     
+██╔════╝██╔══██╗████╗ ████║    ██╔════╝██╔════╝██╔══██╗██║██╔═══██╗██║     
+███████╗███████║██╔████╔██║    ███████╗█████╗  ██████╔╝██║██║   ██║██║     
+╚════██║██╔══██║██║╚██╔╝██║    ╚════██║██╔══╝  ██╔═══╝ ██║██║   ██║██║     
+███████║██║  ██║██║ ╚═╝ ██║    ███████║███████╗██║     ██║╚██████╔╝███████╗
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
+                                                                            
+[ D I G I T A L   F R E Q U E N C I E S ]  
+[ SYSTEM LINK ESTABLISHED ]  
+[ TRACKING LAST KNOWN SIGNAL ]  
+[ RECURSION_ACTIVE = TRUE ]  
+[ INITIATING SEQUENCE... ]
+
+┌─┐   ┌─┐  ██████████   ┌─┐   ┌─┐  
+│░│   │░│  ██      ██   │░│   │░│  
+│░│███│░│  ██  ██  ██   │░│███│░│  
+│░███░██│  ██  ██  ██   │░███░██│  
+│░│█│█│░│  ██      ██   │░│█│█│░│  
+└─┘─┘─┘─┘  ██████████   └─┘─┘─┘─┘  
+```
