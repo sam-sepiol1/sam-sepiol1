@@ -26,7 +26,7 @@ Welcome to my GitHub. Here's a little more about me.
 
 ### Github Activity
 
-https://raw.githubusercontent.com/sam-sepiol1/sam-sepiol1/refs/heads/output/github-snake-dark.svg
+![Commits](https://raw.githubusercontent.com/sam-sepiol1/sam-sepiol1/refs/heads/output/github-snake-dark.svg)
 
 ### When I Code
 ![Hourly Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-sepiol1&theme=dark&utcOffset=1)
