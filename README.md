@@ -19,7 +19,7 @@ Welcome to my GitHub. Here's a little more about me.
   - [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ## 🔥 GitHub Black Box
-![Stats](https://github-readme-stats.vercel.app/api?username=sam-sepiol1&show_icons=false&theme=dark&hide=stars&hide_rank=truev&=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=sam-sepiol1&show_icons=false&theme=dark&hide=stars&hide_rank=true&v=1)
 
 ### What I Code Most
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-sepiol1&layout=compact&theme=dark&v=1)
