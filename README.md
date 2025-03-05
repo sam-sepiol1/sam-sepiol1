@@ -50,6 +50,9 @@ Welcome to my GitHub. Here's a little more about me.
     - Movies 🎥
 
 
+## 🎶 Now Playing
+[![Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1150324591&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=d9d9d9&bar_color_cover=true)](https://open.spotify.com/user/1150324591)
+
 
 > ### "Control is an illusion. But I still prefer to be the one pulling the strings."
 > 
@@ -62,13 +65,6 @@ Welcome to my GitHub. Here's a little more about me.
 │░███░██│  ██  ██  ██   │░███░██│  
 │░│█│█│░│  ██      ██   │░│█│█│░│  
 └─┘─┘─┘─┘  ██████████   └─┘─┘─┘─┘  
-
-███████╗ █████╗ ███╗   ███╗    ███████╗███████╗██████╗ ██╗ ██████╗ ██╗     
-██╔════╝██╔══██╗████╗ ████║    ██╔════╝██╔════╝██╔══██╗██║██╔═══██╗██║     
-███████╗███████║██╔████╔██║    ███████╗█████╗  ██████╔╝██║██║   ██║██║     
-╚════██║██╔══██║██║╚██╔╝██║    ╚════██║██╔══╝  ██╔═══╝ ██║██║   ██║██║     
-███████║██║  ██║██║ ╚═╝ ██║    ███████║███████╗██║     ██║╚██████╔╝███████╗
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
                                                                             
 [ D I G I T A L   F R E Q U E N C I E S ]  
 [ SYSTEM LINK ESTABLISHED ]  
